@@ -1,0 +1,18 @@
+.header {
+    display: grid;
+    grid-template-columns: 20% 20% 15% 10% 15% 20%;
+    grid-template-rows: 150px;
+    grid-gap: 5px;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: lightgoldenrodyellow;
+}
+.name {
+    cursor: pointer;
+}
+.age {
+    cursor: pointer;
+}
